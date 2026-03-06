@@ -1,0 +1,6 @@
+# Novels Project Task List
+
+- [x] Move AI Assistant folder out of 设定集 to root level.
+- [x] Create independent files for each AI Assistant role (e.g., Logic Checker, Plot Expander, Lore Generator).
+- [x] Create a "Manager" AI guide file to coordinate the assistants.
+- [x] Delete the old combined AI Assistant file.
