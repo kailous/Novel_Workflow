@@ -21,3 +21,6 @@
 
 ---
 *注：点击章节标题即可跳转至对应正文内容。*
+
+---
+[🛠️ 管理创作工作区 (Workspace Guide)](WORKSPACE_GUIDE.md)
